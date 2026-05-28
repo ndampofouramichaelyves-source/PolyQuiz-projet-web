@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "catégorie": "Formule 1",
+    "libellé": "Quel pilote a remporté le championnat 2021 ?",
+    "options": ["Lewis Hamilton", "Max Verstappen", "Valtteri Bottas", "Sergio Pérez"],
+    "bonne_reponse": "Max Verstappen"
+  },
+  {
+    "id": 2,
+    "catégorie": "MotoGP",
+    "libellé": "Quel est le record de victoires en MotoGP (toutes catégories) ?",
+    "options": ["Valentino Rossi", "Marc Márquez", "Giacomo Agostini", "Ángel Nieto"],
+    "bonne_reponse": "Giacomo Agostini"
+  },
+  {
+    "id": 3,
+    "catégorie": "NBA",
+    "libellé": "Qui détient le record de points en un seul match NBA ?",
+    "options": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "LeBron James"],
+    "bonne_reponse": "Wilt Chamberlain"
+  },
+  {
+    "id": 4,
+    "catégorie": "Manga/Anime",
+    "libellé": "Dans 'Naruto', quel est le nom du démon à neuf queues ?",
+    "options": ["Kurama", "Gyuki", "Shukaku", "Matatabi"],
+    "bonne_reponse": "Kurama"
+  },
+  {
+    "id": 5,
+    "catégorie": "Formule 1",
+    "libellé": "Laquelle de ces équipes a remporté le plus de titres constructeurs ?",
+    "options": ["Ferrari", "Mercedes", "Williams", "McLaren"],
+    "bonne_reponse": "Ferrari"
+  },
+  {
+    "id": 6,
+    "catégorie": "MotoGP",
+    "libellé": "Quel pilote a gagné le MotoGP 2022 ?",
+    "options": ["Fabio Quartararo", "Francesco Bagnaia", "Enea Bastianini", "Aleix Espargaró"],
+    "bonne_reponse": "Francesco Bagnaia"
+  },
+  {
+    "id": 7,
+    "catégorie": "NBA",
+    "libellé": "Quelle équipe a remporté le titre NBA en 2023 ?",
+    "options": ["Miami Heat", "Denver Nuggets", "Boston Celtics", "Golden State Warriors"],
+    "bonne_reponse": "Denver Nuggets"
+  },
+  {
+    "id": 8,
+    "catégorie": "Manga/Anime",
+    "libellé": "Dans 'One Piece', quel est le rêve de Monkey D. Luffy ?",
+    "options": ["Devenir le Roi des Pirates", "Trouver le One Piece", "Devenir l'épéiste le plus fort", "Naviguer sur toutes les mers"],
+    "bonne_reponse": "Devenir le Roi des Pirates"
+  },
+  {
+    "id": 9,
+    "catégorie": "Formule 1",
+    "libellé": "Quel circuit est surnommé 'Le Temple de la vitesse' ?",
+    "options": ["Monza", "Spa-Francorchamps", "Silverstone", "Suzuka"],
+    "bonne_reponse": "Monza"
+  },
+  {
+    "id": 10,
+    "catégorie": "Manga/Anime",
+    "libellé": "Quel est le nom du protagoniste de 'Attack on Titan' ?",
+    "options": ["Eren Yeager", "Levi Ackerman", "Mikasa Ackerman", "Armin Arlert"],
+    "bonne_reponse": "Eren Yeager"
+  }
+]
